@@ -10,6 +10,10 @@
  - SALES DASHBOARD  - https://github.com/Harinivanitha25/Sales-Dashboard
  - Pwc job simulation Dashboard - SOON ...
 
+# SQL Projects
+ - Missing money matters - https://github.com/Harinivanitha25/WSDA_Music
+
+
 <!---
 Harinivanitha25/Harinivanitha25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
