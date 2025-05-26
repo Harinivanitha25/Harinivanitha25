@@ -8,7 +8,8 @@
 
 # Power BI Projects
  - Sales Dashboard  - https://github.com/Harinivanitha25/Sales-Dashboard
- - Pwc job simulation Dashboard - SOON ...
+ - Pwc job simulation Dashboard - https://github.com/Harinivanitha25/PWC
+ - Youtube Channel Dashboard - SOON..
 
 # SQL Projects
  - Missing money matters - https://github.com/Harinivanitha25/WSDA_Music
@@ -21,6 +22,7 @@
 
 # UI - Figma
  - Start Page - https://github.com/Harinivanitha25/Start-Page
+ - Nabi Art Studio Website - SOON...
 <!---
 Harinivanitha25/Harinivanitha25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
