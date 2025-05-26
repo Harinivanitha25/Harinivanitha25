@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Harinivanitha25
-- 👀 I’m interested in Data science
-- 🌱 I’m currently learning Data analyst skills
-- 💞️ I’m looking to collaborate on data analyst work
+- 👋 Hi, I’m @Harinivanitha25.
+- 👀 I’m interested in Data science, UI design.
+- 🌱 I’m currently learning Data analyst skills and Figma,
+- 💞️ I’m looking to collaborate on data analyst work, UI designing, 
 - 📫 How to reach me harini.vanitha25@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm an introvert and quick learner.
