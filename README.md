@@ -18,6 +18,7 @@
  - Simple Data handling problems - https://github.com/Harinivanitha25/Data-Handling-Level-1
 
 # Python problems
+ - Diabetes Prediction - https://github.com/Harinivanitha25/Diabetes_prediction
  - Guess the number Game - https://github.com/Harinivanitha25/Guess-the-Number
  - Set of python problems - https://github.com/Harinivanitha25/Python_programs
 
