@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harinivanitha25.
-- 👀 I’m interested in Data science, UI design.
-- 🌱 I’m currently learning Data analyst skills and Figma,
+- 👀 I’m interested in Data science, UI design,
+- 🌱 I’m currently learning Data analyst skills and Figma, Programming languages,
 - 💞️ I’m looking to collaborate on data analyst work, UI designing, 
 - 📫 How to reach me harini.vanitha25@gmail.com
 - 😄 Pronouns: She/Her
