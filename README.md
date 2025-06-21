@@ -25,6 +25,9 @@
 # UI - Figma
  - Start Page - https://github.com/Harinivanitha25/Start-Page
  - Nabi Art Studio Website - SOON...
+
+# Hackerrank Problems
+ - Problem solving (Basics) - https://github.com/Harinivanitha25/Problem-solving-Basics-
 <!---
 Harinivanitha25/Harinivanitha25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
