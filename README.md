@@ -9,7 +9,7 @@
 # Power BI Projects
  - Sales Dashboard  - https://github.com/Harinivanitha25/Sales-Dashboard
  - Pwc job simulation Dashboard - https://github.com/Harinivanitha25/PWC
- - Youtube Channel Dashboard - SOON..
+ - Youtube Channel Dashboard - https://github.com/Harinivanitha25/Quick_Wisdom
 
 # SQL Projects
  - Missing money matters - https://github.com/Harinivanitha25/WSDA_Music
