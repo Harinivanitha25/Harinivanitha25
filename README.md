@@ -20,8 +20,8 @@
  - Set of python problems - https://github.com/Harinivanitha25/Python_programs
 
 # Web Development
- - Rock-Paper-Scissor -
- - Second's StopWatch -
+ - Rock-Paper-Scissor - https://github.com/Harinivanitha25/Rock_Paper_Scissor
+ - Second's StopWatch - https://github.com/Harinivanitha25/Second-s-StopWatch
  - Portfolio Website - 
 
 # C problems
