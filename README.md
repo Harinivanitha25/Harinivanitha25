@@ -11,23 +11,30 @@
  - Pwc job simulation Dashboard - https://github.com/Harinivanitha25/PWC
  - Youtube Channel Dashboard - https://github.com/Harinivanitha25/Quick_Wisdom
 
-# SQL Projects
- - Missing money matters - https://github.com/Harinivanitha25/WSDA_Music
-
-# C problems
- - Simple Data handling problems - https://github.com/Harinivanitha25/Data-Handling-Level-1
+# Hackerrank Problems
+ - Problem solving (Basics) - https://github.com/Harinivanitha25/Problem-solving-Basics-
 
 # Python problems
  - Diabetes Prediction - https://github.com/Harinivanitha25/Diabetes_prediction
  - Guess the number Game - https://github.com/Harinivanitha25/Guess-the-Number
  - Set of python problems - https://github.com/Harinivanitha25/Python_programs
 
+# Web Development
+ - Rock-Paper-Scissor -
+ - Second's StopWatch -
+ - Portfolio Website - 
+
+# C problems
+ - Simple Data handling problems - https://github.com/Harinivanitha25/Data-Handling-Level-1
+
 # UI - Figma
  - Start Page - https://github.com/Harinivanitha25/Start-Page
  - Nabi Art Studio Website - SOON...
 
-# Hackerrank Problems
- - Problem solving (Basics) - https://github.com/Harinivanitha25/Problem-solving-Basics-
+# SQL Projects
+ - Missing money matters - https://github.com/Harinivanitha25/WSDA_Music
+
+
 <!---
 Harinivanitha25/Harinivanitha25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
