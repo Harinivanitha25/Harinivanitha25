@@ -23,8 +23,9 @@
  - Rock-Paper-Scissor - https://github.com/Harinivanitha25/Rock_Paper_Scissor
  - Second's StopWatch - https://github.com/Harinivanitha25/Second-s-StopWatch
  - Portfolio Website -  https://github.com/Harinivanitha25/Portfolio_Website
- - Expense_Tracker - Front-end - https://github.com/Harinivanitha25/Expense_Tracker
-                   - Back-end - https://github.com/Harinivanitha25/Expense_Tracker_Backend
+ - Expense_Tracker   - Front-end - https://github.com/Harinivanitha25/Expense_Tracker
+                     - Back-end - https://github.com/Harinivanitha25/Expense_Tracker_Backend
+ - Guess the Number  - https://github.com/Harinivanitha25/Guess_the_Number 
 
 # C problems
  - Simple Data handling problems - https://github.com/Harinivanitha25/Data-Handling-Level-1
