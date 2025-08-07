@@ -25,7 +25,7 @@
  - Portfolio Website -  https://github.com/Harinivanitha25/Portfolio_Website
  - Expense_Tracker   - Front-end - https://github.com/Harinivanitha25/Expense_Tracker
                      - Back-end - https://github.com/Harinivanitha25/Expense_Tracker_Backend
- - Guess the Number  - https://github.com/Harinivanitha25/Guess_the_Number 
+ - Guess the Number (Game) - https://github.com/Harinivanitha25/Guess_the_Number 
 
 # C problems
  - Simple Data handling problems - https://github.com/Harinivanitha25/Data-Handling-Level-1
