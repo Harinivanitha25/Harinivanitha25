@@ -7,6 +7,7 @@
 - ⚡ Fun fact: I'm an introvert and quick learner.
 
 # Power BI Projects
+ - F1 2024 Team Dashboard - https://github.com/Harinivanitha25/F1-2024-Team-Dashboard
  - Sales Dashboard  - https://github.com/Harinivanitha25/Sales-Dashboard
  - Pwc job simulation Dashboard - https://github.com/Harinivanitha25/PWC
  - Youtube Channel Dashboard - https://github.com/Harinivanitha25/Quick_Wisdom
