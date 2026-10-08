@@ -6,6 +6,13 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm an introvert and quick learner.
 
+
+# Vibe-Coded Apps.
+ - Constellation_Study_Graph - https://github.com/Harinivanitha25/Constellation_Study_Graph
+
+# AI-related-Application
+ - Quick_Wisdom_AI_Video_Generator - https://github.com/Harinivanitha25/Quick_Wisdom_AI_Video_Generator
+   
 # Power BI Projects
  - F1 2024 Team Dashboard - https://github.com/Harinivanitha25/F1-2024-Team-Dashboard
  - Pwc job simulation Dashboard - https://github.com/Harinivanitha25/PWC
