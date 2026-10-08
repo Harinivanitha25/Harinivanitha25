@@ -7,10 +7,10 @@
 - ⚡ Fun fact: I'm an introvert and quick learner.
 
 
-# Vibe-Coded Apps.
+# Vibe-Coded Apps
  - Constellation_Study_Graph - https://github.com/Harinivanitha25/Constellation_Study_Graph
 
-# AI-related-Application
+# AI Application
  - Quick_Wisdom_AI_Video_Generator - https://github.com/Harinivanitha25/Quick_Wisdom_AI_Video_Generator
    
 # Power BI Projects
